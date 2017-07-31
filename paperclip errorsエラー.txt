@@ -1,0 +1,8 @@
+http://qiita.com/mtakizawa/items/d903c9f8e94c6dff123f
+
+
+
+ƒoƒO‰ðŒˆ
+https://stackoverflow.com/questions/4981336/ruby-on-rails-paperclip-identify-command-working-in-cmd-but-not-in-app
+
+https://www.google.co.jp/search?q=paperclip.options+command_path+windows&oq=paperclipoption&aqs=chrome.3.69i57j0l5.10227j0j7&sourceid=chrome&ie=UTF-8
